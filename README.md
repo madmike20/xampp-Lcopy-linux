@@ -1,1 +1,1 @@
-# xampp-Lcopy-linux
+# xampp-copy-linux
